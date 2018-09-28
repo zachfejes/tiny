@@ -1,6 +1,6 @@
 {
     "name": "@zachfejes/tiny",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "description": "Removes all spaces from a provided string",
     "licence": "MIT",
     "repository": "zachfejes/tiny",
